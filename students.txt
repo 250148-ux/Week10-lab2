@@ -1,0 +1,5 @@
+Abdulloh Kozimov 4.4 ComputerScience
+John Smith 3.50 Mathematics
+Maria Garcia 3.92 Physics
+Chen Wei 3.71 Engineering
+Sara Johnson 3.60 Biology
