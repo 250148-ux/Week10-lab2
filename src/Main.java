@@ -1,7 +1,9 @@
 public class Main{
     public static void main(String[] args){
 
-        ///Problem5
+        ///Problem6 StoreDemo.java
+
+        ///Problem5 ShapeDemo.java
 
         ///Problem 4 Problem4->Main.java
 
